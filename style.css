@@ -45,6 +45,7 @@ p{
     display: flex;
     justify-content: space-between;
     width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   
   
@@ -127,6 +128,7 @@ p{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   footer{
     display: flex;
@@ -142,4 +144,7 @@ p{
     display: flex;
     flex-wrap: wrap;
     justify-content: center; 
+  }
+  .gretting{
+    text-align: center;
   }
